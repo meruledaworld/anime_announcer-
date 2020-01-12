@@ -2,7 +2,7 @@
 
 This was an old Dota 2 mod from https://github.com/saylith/harem-announcer made by u/saylith. It was not working anymore as he stopped updating it to the current patch and I tried to revive it for my own usage. Works like a charm and thought it must be great to share his updated great work here.
 
-Might add some more lines for missing female heroes here in the future (Mirana, Legion Commander, Dark Willow. Snapfire)
+Might add some more lines for missing female heroes here in the future (Mirana, Legion Commander, Dark Willow, Snapfire)
 
 ## Installation
 1. Download the `pak01_dir.vpk` file of the [latest release](https://github.com/meruledaworld/anime_announcer-) (under the "Assets" section).
@@ -28,5 +28,6 @@ Q : My game broke :( what should I do to make it go back to normal??? ( or you j
 1. Open the `gameinfo.gi` file again and remove the line you added earlier. Or you can use your backup files that you saved on Desktop and replace the edited ones.
 2. Delete the `dota2mods` folder from your Dota folder.
 
-Q: What animu character are available now? 
-A: You can find the sample of the announcer and heroes lines here https://github.com/saylith/harem-announcer (Don't download the file there as it's not updated)
+Q: What animu character are available now?
+
+1. You can find the sample of the announcer and heroes lines here https://github.com/saylith/harem-announcer (Don't download the file there as it's not updated)
