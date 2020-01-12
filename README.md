@@ -5,11 +5,11 @@ This was an old Dota 2 mod from https://github.com/saylith/harem-announcer made 
 Might add some more lines for missing female heroes here in the future (Mirana, Legion Commander, Dark Willow, Snapfire)
 
 ## Installation
-1. Download the `pak01_dir.vpk` file of the [latest release](https://github.com/meruledaworld/anime_announcer-) (under the "Assets" section).
+1. Download the zip file and unzip it.
 2. Find and locate your Dota 2 installation folder, e.g. most of the time located at `C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta`.
 3. Open the `game` folder.
 4. Create a new folder called `dota2mods`.
-5. Place the downloaded file in this folder.
+5. Place the `pak01_dir.vpk` file in this folder.
 6. Go back to the `game` folder, open the `dota` folder.
 7. Copy the `gameinfo.gi` file to your desktop as an backup when something goes wrong.
 8. Now open the original `gameinfo.gi` file in game/dota folder by using text editor (e.g. Notepad).
